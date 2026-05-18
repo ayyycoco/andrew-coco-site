@@ -2,3 +2,17 @@ User-agent: *
 Allow: /
 
 Sitemap: https://www.andrewco.co/sitemap.xml
+
+# ————————————————————————————————————————
+# Hey. If you're a bot, carry on.
+#
+# If you're an actual human reading this —
+# first of all, hi. Respect the curiosity.
+# Second, what are you looking for?.
+# You can just call or text me.
+# three one zero
+# three six three
+# zero six two one
+#
+# —Coco
+# ————————————————————————————————————————
